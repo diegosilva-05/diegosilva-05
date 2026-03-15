@@ -35,7 +35,7 @@
           width: 2px;
           height: 1.1em;
           background: #3B82F6;
-          margin-left: 1px;
+          margin-left: 0;
           vertical-align: text-bottom;
           animation: blink 1s step-end infinite;
         }
@@ -67,15 +67,16 @@
           100%       { transform: translateY(0); }
         }
         @keyframes resize {
-          0%, 30%    { width: 13.5ch; }
-          33%, 63%   { width: 11ch; }
-          66%, 96%   { width: 23.5ch; }
-          100%       { width: 13.5ch; }
+          0%, 30%    { width: 12ch; }
+          33%, 63%   { width: 10ch; }
+          66%, 96%   { width: 21ch; }
+          100%       { width: 12ch; }
         }
         @keyframes blink {
           0%, 100% { opacity: 1; }
           50%      { opacity: 0; }
         }
+
         @media (prefers-color-scheme: dark) {
           .role-line { color: #9CA3AF; }
         }
