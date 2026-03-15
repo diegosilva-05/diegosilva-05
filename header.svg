@@ -1,0 +1,99 @@
+<svg fill="none" viewBox="0 0 800 120" width="800" height="120" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&amp;display=swap');
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        .header {
+          height: 120px;
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          padding-left: 4px;
+          font-family: 'JetBrains Mono', monospace;
+        }
+        .name {
+          font-size: 2em;
+          font-weight: 700;
+          letter-spacing: -0.02em;
+          background: linear-gradient(135deg, #3B82F6 0%, #06B6D4 50%, #10B981 100%);
+          -webkit-background-clip: text;
+          -webkit-text-fill-color: transparent;
+          background-clip: text;
+        }
+        .role-line {
+          display: flex;
+          align-items: center;
+          gap: 0;
+          margin-top: 6px;
+          font-size: 0.95em;
+          color: #6B7280;
+        }
+        .static { white-space: nowrap; }
+        .cursor {
+          display: inline-block;
+          width: 2px;
+          height: 1.1em;
+          background: #3B82F6;
+          margin-left: 1px;
+          vertical-align: text-bottom;
+          animation: blink 1s step-end infinite;
+        }
+        .rotating {
+          display: inline-block;
+          height: 1.3em;
+          overflow: hidden;
+          vertical-align: bottom;
+          position: relative;
+          animation: resize 9s steps(1) infinite;
+        }
+        .rotating-inner {
+          display: flex;
+          flex-direction: column;
+          animation: scroll 9s steps(1) infinite;
+        }
+        .rotating-inner span {
+          display: block;
+          height: 1.3em;
+          line-height: 1.3em;
+          white-space: nowrap;
+          color: #3B82F6;
+          font-weight: 700;
+        }
+        @keyframes scroll {
+          0%, 30%    { transform: translateY(0); }
+          33%, 63%   { transform: translateY(-1.3em); }
+          66%, 96%   { transform: translateY(-2.6em); }
+          100%       { transform: translateY(0); }
+        }
+        @keyframes resize {
+          0%, 30%    { width: 13.5ch; }
+          33%, 63%   { width: 11ch; }
+          66%, 96%   { width: 23.5ch; }
+          100%       { width: 13.5ch; }
+        }
+        @keyframes blink {
+          0%, 100% { opacity: 1; }
+          50%      { opacity: 0; }
+        }
+        @media (prefers-color-scheme: dark) {
+          .role-line { color: #9CA3AF; }
+        }
+      </style>
+      <div class="header">
+        <div class="name">Diego Silva</div>
+        <div class="role-line">
+          <span class="static">Building at the intersection of </span>
+          <span class="rotating">
+            <span class="rotating-inner">
+              <span>Product &amp; AI</span>
+              <span>ML Systems</span>
+              <span>Financial Engineering</span>
+            </span>
+          </span>
+          <span class="cursor"></span>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
