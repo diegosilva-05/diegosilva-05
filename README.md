@@ -53,22 +53,22 @@ currently: AI Product Manager — architecting LLM-powered platforms for automot
 <table>
   <tr>
     <td width="50%">
-      <h4><a href="https://github.com/diegosilva-05/automotive-lead-etl-pipeline">automotive-lead-etl-pipeline</a></h4>
-      <p><sub>ETL + LLM enrichment pipeline for automotive lead scoring. Python · Scikit-learn · OpenAI API</sub></p>
+      <h4><a href="https://github.com/diegosilva-05/agentic-payment-mcp">agentic-payment-mcp</a></h4>
+      <p><sub>MCP server for AI-initiated commerce · KYA Gate · Deterministic Fraud Scoring · Capture Pre-Flight. Python · Pydantic v2 · MCP SDK</sub></p>
     </td>
     <td width="50%">
-      <h4><a href="https://github.com/diegosilva-05/schaeffler-lean-analytics">schaeffler-lean-analytics</a></h4>
-      <p><sub>Die maintenance analytics — MTTR/FPY optimization. SAP MRP · Power BI · ANOVA</sub></p>
+      <h4><em>Next project loading...</em></h4>
+      <p><sub>Tech Stack</sub></p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h4><a href="https://github.com/diegosilva-05/oracle-climate-simulation">oracle-climate-simulation</a></h4>
-      <p><sub>Climate scenario engine on Oracle Cloud. 100K+ NASA/NOAA records · APEX · GeoJSON</sub></p>
+      <h4><em>Next project loading...</em></h4>
+      <p><sub>Tech Stack</sub></p>
     </td>
     <td width="50%">
       <h4><em>Next project loading...</em></h4>
-      <p><sub>Quantitative finance models · portfolio optimization · ML-driven risk analysis</sub></p>
+      <p><sub>Tech Stack</sub></p>
     </td>
   </tr>
 </table>
@@ -93,6 +93,5 @@ currently: AI Product Manager — architecting LLM-powered platforms for automot
 ---
 
 <p align="center">
-  <sub>Industrial Engineering · Product · AI/ML · Financial Engineering</sub><br/>
-  <sub>Open to Big Tech, management consulting, and quantitative roles.</sub>
+  <sub>Product · AI/ML · Financial Engineering</sub>
 </p>
