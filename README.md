@@ -6,12 +6,7 @@
 <br/>
 
 ```yaml
-name: Diego Silva
-location: Puebla, MX
-education: B.S. Industrial Engineering + Minor Business — Universidad Anáhuac '26
-focus: [ "Product Management", "AI/ML Systems", "Financial Engineering" ]
-languages: [ "Spanish (native)", "English (fluent)", "French (conversational)" ]
-currently: AI Product Manager — architecting LLM-powered platforms for automotive verticals
+AI Engineer — Architecting intelligence at the frontier of agentic systems and product strategy
 ```
 
 <p align="center">
@@ -37,13 +32,15 @@ currently: AI Product Manager — architecting LLM-powered platforms for automot
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Six%20Sigma-00897B?style=flat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Agile%2FScrum-2496ED?style=flat&logo=scrumalliance&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
 </p>
 
 ---
