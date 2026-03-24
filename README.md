@@ -17,18 +17,18 @@ AI Engineer — Architecting intelligence at the frontier of agentic systems and
 
 ---
 
-### Impact
+### IMPACT
 
 | What | Result | Context |
 |:-----|:------:|:--------|
-| Six Sigma scrap reduction | **↓ 74%** | FORVIA · Tier-1 OEM line · USD 55K+ annual savings |
-| Industrial die maintenance pipeline | **↓ 11% MTTR** | Schaeffler · 1st Place Lean Challenge · USD 28K+ unlocked |
-| AI lead intelligence platform | **Live** | LLM + ETL automation for automotive dealers · full product lifecycle |
-| Climate simulation engine | **100K+ records** | Oracle Cloud · 2nd Place Hackathon · NASA + NOAA data |
+| Architected AI Product from 0→1 | **5% ↑**<br/>**conversion rate** | LLM + ETL automation · automotive dealers · SDLC owner |
+| AI-driven industrial transformation | **1st Place** | Schaeffler Lean Challenge · Industry 5.0 · USD 28K+ unlocked |
+| Six Sigma cost reduction | **74% ↓**<br/>**scrap rate** | FORVIA · Tier-1 OEM line · USD 55K+ annual savings |
+| Large-scale data integration | **100K+ records** | Oracle Hackathon · NASA ESDS + NOAA · real-time modeling |
 
 ---
 
-### Stack
+### TECH STACK
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
@@ -51,7 +51,7 @@ AI Engineer — Architecting intelligence at the frontier of agentic systems and
   <tr>
     <td width="50%">
       <h4><a href="https://github.com/diegosilva-05/agentic-payment-mcp">agentic-payment-mcp</a></h4>
-      <p><sub>MCP server for AI-initiated commerce · KYA Gate · Deterministic Fraud Scoring · Capture Pre-Flight. Python · Pydantic v2 · MCP SDK</sub></p>
+      <p><sub>MCP server for AI-initiated commerce · Deterministic Fraud Scoring · Capture Pre-Flight · Python · Pydantic v2 · MCP SDK</sub></p>
     </td>
     <td width="50%">
       <h4><em>Next project loading...</em></h4>
