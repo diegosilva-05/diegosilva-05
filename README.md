@@ -6,7 +6,9 @@
 <br/>
 
 ```yaml
-AI Engineer — Architecting intelligence at the frontier of agentic systems and product strategy
+Product Strategist & AI Systems Architect
+
+I build agentic infrastructure that turns business problems into scalable, automated revenue
 ```
 
 <p align="center">
