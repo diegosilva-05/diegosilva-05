@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/diegosilva-05/diegosilva-05/blob/main/header.svg">
+  <a href="https://github.com/5-silva/diegosilva-05/blob/main/header.svg">
     <img src="header.svg" alt="Diego Silva — Product, AI/ML, Financial Engineering" width="800"/>
   </a>
 </div>
@@ -12,9 +12,9 @@ I build agentic infrastructure that turns business problems into scalable, autom
 ```
 
 <p align="center">
-  <a href="https://linkedin.com/in/05-diegosilva"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+  <a href="https://linkedin.com/in/5-silva"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
   <a href="mailto:diego.silva05@anahuac.mx"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=diegosilva-05&style=flat&color=0891B2&label=Profile+views" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=5-silva&style=flat&color=0891B2&label=Profile+views" alt="Profile views"/>
 </p>
 
 ---
@@ -52,7 +52,7 @@ I build agentic infrastructure that turns business problems into scalable, autom
 <table>
   <tr>
     <td width="50%">
-      <h4><a href="https://github.com/diegosilva-05/agentic-payment-mcp">agentic-payment-mcp</a></h4>
+      <h4><a href="https://github.com/5-silva/agentic-payment-mcp">agentic-payment-mcp</a></h4>
       <p><sub>MCP server for AI-initiated commerce · Deterministic Fraud Scoring · Capture Pre-Flight · Python · Pydantic v2 · MCP SDK</sub></p>
     </td>
     <td width="50%">
@@ -77,15 +77,15 @@ I build agentic infrastructure that turns business problems into scalable, autom
 ### GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diegosilva-05&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=transparent&text_color=6B7280&icon_color=3B82F6" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diegosilva-05&hide_border=true&background=00000000&ring=3B82F6&fire=06B6D4&currStreakLabel=6B7280&sideLabels=6B7280&currStreakNum=3B82F6&sideNums=3B82F6&dates=9CA3AF" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=5-silva&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=transparent&text_color=6B7280&icon_color=3B82F6" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=5-silva&hide_border=true&background=00000000&ring=3B82F6&fire=06B6D4&currStreakLabel=6B7280&sideLabels=6B7280&currStreakNum=3B82F6&sideNums=3B82F6&dates=9CA3AF" height="160"/>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/diegosilva-05/diegosilva-05/blob/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/diegosilva-05/diegosilva-05/blob/output/github-snake.svg"/>
-    <img alt="contribution snake" src="https://github.com/diegosilva-05/diegosilva-05/blob/output/github-snake.svg" width="100%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/5-silva/diegosilva-05/blob/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/5-silva/diegosilva-05/blob/output/github-snake.svg"/>
+    <img alt="contribution snake" src="https://github.com/diegosilva-05/5-silva/blob/output/github-snake.svg" width="100%"/>
   </picture>
 </p>
 
